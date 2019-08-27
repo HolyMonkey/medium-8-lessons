@@ -10,8 +10,8 @@ namespace OOP
     {
         static void Main(string[] args)
         {
-            int a = 0;
-            Console.WriteLine(a);
+            int age = 0;
+            Console.WriteLine(age);
         }
     }
 }
