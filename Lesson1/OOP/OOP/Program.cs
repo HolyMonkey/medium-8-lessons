@@ -46,5 +46,10 @@ namespace OOP
             Name = "Temp";
             Age = age;
         }
+
+        public string GetName()
+        {
+            return "Name";
+        }
     }
 }
